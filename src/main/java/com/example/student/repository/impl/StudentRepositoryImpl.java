@@ -1,7 +1,7 @@
-package com.example.student.codes.repository.impl;
+package com.example.student.repository.impl;
 
-import com.example.student.codes.model.Student;
-import com.example.student.codes.repository.StudentRepository;
+import com.example.student.model.Student;
+import com.example.student.repository.StudentRepository;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

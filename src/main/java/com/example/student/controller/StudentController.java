@@ -1,8 +1,8 @@
-package com.example.student.codes.controller;
+package com.example.student.controller;
 
-import com.example.student.codes.exception.StudentNotFoundException;
-import com.example.student.codes.model.Student;
-import com.example.student.codes.service.StudentService;
+import com.example.student.exception.StudentNotFoundException;
+import com.example.student.model.Student;
+import com.example.student.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

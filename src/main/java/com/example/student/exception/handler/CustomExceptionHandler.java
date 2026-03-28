@@ -1,6 +1,6 @@
-package com.example.student.codes.exception.handler;
+package com.example.student.exception.handler;
 
-import com.example.student.codes.exception.StudentNotFoundException;
+import com.example.student.exception.StudentNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ExceptionHandler;
